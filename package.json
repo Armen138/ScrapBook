@@ -1,0 +1,11 @@
+{
+	"name": "ScrapBook1",
+	"dependencies": {
+		"gulp": "*",
+		"underscore": "*",
+		"jquery": "*",
+		"backbone": "*",
+        "backbone.localstorage": "*",
+		"gulp-browserify": "*"
+	}
+}
